@@ -1,6 +1,6 @@
-<p align="center">
-  <h1> CyberVets Cohert 7 </h1>
-</p>
+ <h1> <p align="center">
+ CyberVets Cohert 7 
+</p> </h1>
 
 ---
 
