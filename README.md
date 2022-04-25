@@ -28,3 +28,11 @@ Wiki Quick Links
 
  * [LinkedIn Profile](https://www.linkedin.com/in/yr-lee/)
  * [Resume](https://github.com/Reeseys/CyberVets_ePortfolio_C7/files/8384037/Resume_LEE.pdf)
+
+
+---
+ 
+ <h3> <p align="center">
+  Projects Page
+</p> </h3>
+
