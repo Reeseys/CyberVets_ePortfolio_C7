@@ -22,7 +22,7 @@ Hello! and welcome to my ePortfolio, my name is Richard Lee, most people just ca
   My Wiki Page
 </p> </h3>
 
-[Click here to see everything in my Wiki page](https://github.com/Reeseys/CyberVets_ePortfolio_C7/projects?type=beta) 
+[Click here to see everything in my Wiki page](https://github.com/Reeseys/CyberVets_ePortfolio_C7/wiki) 
 
 Wiki Quick Links
 
@@ -36,3 +36,4 @@ Wiki Quick Links
   Projects Page
 </p> </h3>
 
+[Projects Page](https://github.com/Reeseys/CyberVets_ePortfolio_C7/projects?type=beta)
