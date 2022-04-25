@@ -22,4 +22,5 @@ Hello! and welcome to my ePortfolio, my name is Richard Lee, most people just ca
   WIKI PAGE
 </p> </h3>
 
- https://github.com/Reeseys/CyberVets_ePortfolio_C7/wiki
+ * [LinkedIn Profile](https://www.linkedin.com/in/yr-lee/)
+ * [Resume](https://github.com/Reeseys/CyberVets_ePortfolio_C7/files/8384037/Resume_LEE.pdf)
