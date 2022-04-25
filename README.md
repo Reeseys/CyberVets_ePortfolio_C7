@@ -19,7 +19,7 @@ Hello! and welcome to my ePortfolio, my name is Richard Lee, most people just ca
 
  
  <h3> <p align="center">
-  [See My WIKI Page]https://github.com/Reeseys/CyberVets_ePortfolio_C7/projects?type=beta
+  [See My Wiki Page](https://github.com/Reeseys/CyberVets_ePortfolio_C7/projects?type=beta)
 </p> </h3>
 
  * [LinkedIn Profile](https://www.linkedin.com/in/yr-lee/)
