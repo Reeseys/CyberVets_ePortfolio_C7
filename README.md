@@ -24,7 +24,7 @@ Hello! and welcome to my ePortfolio, my name is Richard Lee, most people just ca
 
 <p align="center">
  
-[Here](https://github.com/Reeseys/CyberVets_ePortfolio_C7/wiki) you can get to know who I am in a little more detail. I talk a little bit of what I did before I joined the military, what I did in the military, and what I am trying to do after the military. Below are just some quick links to get my information.
+On my [Wiki Page](https://github.com/Reeseys/CyberVets_ePortfolio_C7/wiki) you can get to know who I am in a little more detail. I talk a little bit of what I did before I joined the military, what I did in the military, and what I am trying to do after the military. Below are just some quick links to get my information.
 
 Wiki Quick Links
 
