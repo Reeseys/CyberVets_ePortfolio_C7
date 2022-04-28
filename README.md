@@ -20,16 +20,17 @@ Hello! and welcome to my ePortfolio, my name is Richard Lee, most people just ca
  
  <h3> <p align="center">
   My Wiki Page
-</p> </h3>
+</h3>
 
 <p align="center">
- 
-On my [Wiki Page](https://github.com/Reeseys/CyberVets_ePortfolio_C7/wiki) you can get to know who I am in a little more detail. I talk a little bit of what I did before I joined the military, what I did in the military, and what I am trying to do after the military. Below are just some quick links to get my information.
+  
+ On my [Wiki-Page](https://github.com/Reeseys/CyberVets_ePortfolio_C7/wiki) you can get to know who I am in a little more detail. I talk a little bit of what I did before I joined the military, what I did in the military, and what I am trying to do after the military. Below are just some quick links to get my information. 
+</p>
 
 Wiki Quick Links
 
  * [LinkedIn Profile](https://www.linkedin.com/in/yr-lee/)
- * [Resume](https://github.com/Reeseys/CyberVets_ePortfolio_C7/files/8384037/Resume_LEE.pdf)
+ * [Resume](https://github.com/Reeseys/CyberVets_ePortfolio_C7/files/8572874/Resume_LEEv2.pdf)
 
 
 ---
