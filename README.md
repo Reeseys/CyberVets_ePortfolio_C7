@@ -40,7 +40,6 @@ Wiki Quick Links
 </p> </h3>
 
 <p align="center">
- 
 My projects page list some stuff that I am working on to improve my cybersecruity skills. These include include finding flags (CTF) in a platform called Escalate, I also keep a private daily log what some stuff I have learned during my internship with CMS.
 
 [Projects Page](https://github.com/Reeseys/CyberVets_ePortfolio_C7/projects?type=beta)
